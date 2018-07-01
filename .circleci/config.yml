@@ -11,7 +11,7 @@ jobs:
 
       # Install CocoaPods
       - run:
-          command: pod install
+          command: pod init
 
       # Build the app and run tests
       - run:
