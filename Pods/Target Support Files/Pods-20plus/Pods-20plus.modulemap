@@ -1,0 +1,6 @@
+framework module Pods_20plus {
+  umbrella header "Pods-20plus-umbrella.h"
+
+  export *
+  module * { export * }
+}
